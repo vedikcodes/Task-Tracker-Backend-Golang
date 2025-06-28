@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries and cook dinner",
+    "status": "in-progress",
+    "createdAt": "2025-06-28T10:00:00Z",
+    "updatedAt": "2025-06-29T00:30:04.7290238+05:30"
+  },
+  {
+    "id": 3,
+    "description": "LEARN gOlang ",
+    "status": "todo",
+    "createdAt": "2025-06-29T00:29:22.6816667+05:30",
+    "updatedAt": "2025-06-29T00:29:22.6816667+05:30"
+  }
+]
